@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T18:49:08.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Ir6ugFPYlLsLHv-93hgr" version="13.6.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-08-26T18:51:03.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="bI8kVE1zlOla6vAuNo6r" version="13.6.5" type="github" pages="8">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1447" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1836,6 +1836,15 @@
         <mxCell id="3JV4N619juxrkdrSCaIK-199" value="&lt;span style=&quot;font-weight: 400&quot;&gt;Click this to approve this profile&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=10;fontStyle=1;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="3JV4N619juxrkdrSCaIK-0">
           <mxGeometry x="109.22000000000003" y="3360" width="619" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="DDYPoX2f23VTDT-A11ND-0" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calendar;fontSize=27;fontColor=#0000FF;" vertex="1" parent="3JV4N619juxrkdrSCaIK-0">
+          <mxGeometry x="1211.72" y="650" width="360" height="349" as="geometry" />
+        </mxCell>
+        <mxCell id="DDYPoX2f23VTDT-A11ND-1" value="Google calendar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=10;fontStyle=1;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="3JV4N619juxrkdrSCaIK-0">
+          <mxGeometry x="1291.72" y="1010" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDYPoX2f23VTDT-A11ND-3" value="Select date and time for the interview schedule" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=10;fontStyle=1;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="3JV4N619juxrkdrSCaIK-0">
+          <mxGeometry x="1257.58" y="1050" width="268.28" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="3JV4N619juxrkdrSCaIK-103" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Student&amp;nbsp; -&amp;nbsp; Personal Details&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
           <mxGeometry x="-1581" y="218" width="321" height="20" as="geometry" />
         </mxCell>
@@ -2078,6 +2087,9 @@
         </mxCell>
         <mxCell id="3JV4N619juxrkdrSCaIK-195" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Skills&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
           <mxGeometry x="-1558" y="1838" width="487" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DDYPoX2f23VTDT-A11ND-2" value="&lt;font color=&quot;#999999&quot;&gt;2017&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;;align=left;spacingLeft=10;fontSize=20;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
+          <mxGeometry x="-750" y="1098" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
