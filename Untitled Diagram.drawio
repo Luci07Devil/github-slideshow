@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T18:44:39.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="g52v9uDzrcPquY-_Ngy9" version="13.6.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-26T18:45:42.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="MTTWWo3wvijDXil5Olbx" version="13.6.5" type="github" pages="7">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1447" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1922,9 +1922,6 @@
         </mxCell>
         <mxCell id="3JV4N619juxrkdrSCaIK-133" value="&lt;font color=&quot;#999999&quot; style=&quot;font-size: 20px;&quot;&gt;Year of Study&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;;align=left;spacingLeft=10;fontSize=20;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
           <mxGeometry x="-744" y="988" width="320" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3JV4N619juxrkdrSCaIK-134" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_arrow_drop_down_48px-128.png;shadow=0;strokeColor=#222222;strokeWidth=1;fillColor=#FFFFFF;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
-          <mxGeometry x="-452" y="994" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="3JV4N619juxrkdrSCaIK-135" value="Course of Study:" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;strokeWidth=10;fontStyle=1;fontSize=20;fontColor=#1A1A1A;" vertex="1" parent="d5MX57U2Brb44frY6ayM-1">
           <mxGeometry x="-1178" y="958" width="200" height="20" as="geometry" />
