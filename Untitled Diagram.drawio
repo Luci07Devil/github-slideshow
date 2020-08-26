@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T16:14:37.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NHQTTsNfWkFxHNmathrn" version="13.6.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-08-26T16:22:44.219Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ObVhAzCON9KQcbll-37c" version="13.6.5" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1447" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="q2f2R0TYGlgkv7m5U5GK-25" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;fontSize=20;" parent="hmU9cMwLvoB0xwf7twif-2" vertex="1">
           <mxGeometry x="780" y="380" width="360" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="q2f2R0TYGlgkv7m5U5GK-26" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Sign up&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=22;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;fontStyle=1" parent="q2f2R0TYGlgkv7m5U5GK-25" vertex="1">
+        <mxCell id="q2f2R0TYGlgkv7m5U5GK-26" value="&lt;span style=&quot;font-size: 22px&quot;&gt;Candidate Sign up&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=22;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;fontStyle=1" parent="q2f2R0TYGlgkv7m5U5GK-25" vertex="1">
           <mxGeometry width="180" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
